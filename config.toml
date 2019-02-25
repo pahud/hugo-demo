@@ -2,7 +2,7 @@ baseurl                 = "/"               # Your domain name. Must end with "/
 languageCode            = "en-us"
 defaultContentLanguage  = "en"
 isMultilingual          = false
-title                   = "Call me Sam"
+title                   = "Pahud Hsieh"
 theme                   = "sam"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
@@ -27,13 +27,13 @@ pygmentsCodefences      = true
     primaryImage        = "tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
-    link = "/posts"
-    text = "posts"
+    link = "https://www.linkedin.com/in/pahud/"
+    text = "linkedin"
 
 [[params.mainMenu]]
-    link = "/gallery"
-    text = "gallery"
+    link = "http://github.com/pahud"
+    text = "github"
 
 [[params.mainMenu]]
-    link = "/about"
-    text = "who is sam?"
+    link = "https://twitter.com/pahudnet"
+    text = "twitter"
